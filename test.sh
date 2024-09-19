@@ -1,4 +1,4 @@
-
+##测试git
 MM_NOTIFY_URL=""
 data=`cat trigger.txt`
 if [ $MM_NOTIFY_URL ];then
